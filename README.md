@@ -21,4 +21,4 @@ The project includes data analysis (EDA), models training, and evaluation.
 
 ## Results:
 Conducted EDA to understand feature distributions and correlations.
-Implemented various machine learning models including decision trees, random forest, logistic regression and gradient boosting.
+Implemented various machine learning models including decision trees, random forest, logistic regression, gradient boosting and linear neural networks.
